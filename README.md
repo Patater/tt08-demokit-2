@@ -1,6 +1,14 @@
 ![](../../workflows/gds/badge.svg) ![](../../workflows/docs/badge.svg) ![](../../workflows/test/badge.svg) ![](../../workflows/fpga/badge.svg)
 
-# Tiny Tapeout Verilog Project Template
+# Patater Demo Kit Rainbow Tunnel for Tiny Tapeout (tt08)
+
+![Screenshot of the demo](docs/Tunnel.png)
+
+This is the second repo for [the Patater Demo
+Kit](https://github.com/Patater/demokit) on a chip. For Tiny Tapeout tt08, this
+project provides a single 2x2 tile rainbow tunnel demo.
+
+This project was started from [the Tiny Tapeout Verilog Project template]().
 
 - [Read the documentation for project](docs/info.md)
 
